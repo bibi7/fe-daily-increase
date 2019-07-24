@@ -1,6 +1,10 @@
-# 算是总结吧
+### 前言
+一直想做个合集类的，总结一下重新回顾一下知识点，也方便以后随时查阅。本来想放在blog上的，想了想还是重新开个repo🦄
 
-## js
+哥哥们来点个start叭，🐴过就是看过
+
+
+#### js🍩
 1. [js中的几种数据类型](https://github.com/bibi7/interview/issues/1)
 2. [基本包装类型](https://github.com/bibi7/interview/issues/2)
 3. [隐式转换](https://github.com/bibi7/interview/issues/3)
@@ -12,7 +16,6 @@
 9. [闭包](https://github.com/bibi7/interview/issues/9)
 10. [谈谈this指向，然后new的时候都干了些啥](https://github.com/bibi7/interview/issues/10)
 
-## css
 
-## 算法
+#### 算法🍡
 1. [二分查找法](https://leetcode-cn.com/problems/search-insert-position/solution/js-by-joeyzhouyicheng-4/)
