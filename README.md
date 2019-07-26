@@ -16,6 +16,7 @@
 8. [理解和手写call和apply和bind](https://github.com/bibi7/interview/issues/8)
 9. [闭包](https://github.com/bibi7/interview/issues/9)
 10. [谈谈this指向，然后new的时候都干了些啥](https://github.com/bibi7/interview/issues/10)
+11. [深浅拷贝](https://github.com/bibi7/interview/issues/11)
 
 
 ### 算法🍖
