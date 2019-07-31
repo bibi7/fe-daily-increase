@@ -4,7 +4,6 @@
 内容可能千奇百怪🦄，主要还是日常的一些js总结为主，不定时穿插有时候刷leetcode时看到的比较不错的题解💃
 
 
-
 ### js🍤
 1. [js中的几种数据类型](https://github.com/bibi7/interview/issues/1)
 2. [基本包装类型](https://github.com/bibi7/interview/issues/2)
@@ -18,7 +17,8 @@
 10. [谈谈this指向，然后new的时候都干了些啥](https://github.com/bibi7/interview/issues/10)
 11. [深浅拷贝](https://github.com/bibi7/interview/issues/11)
 12. [聊聊instanceof](https://github.com/bibi7/interview/issues/14)
-
+13. [异步加载js的方式](https://github.com/bibi7/interview/issues/15)
+14. [为什么typeof null返回object](https://github.com/bibi7/interview/issues/16)
 
 ### css🍥
 1. [外边距合并](https://github.com/bibi7/interview/issues/12)
