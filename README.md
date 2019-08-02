@@ -19,6 +19,8 @@
 12. [聊聊instanceof](https://github.com/bibi7/interview/issues/14)
 13. [异步加载js的方式](https://github.com/bibi7/interview/issues/15)
 14. [为什么typeof null返回object](https://github.com/bibi7/interview/issues/16)
+14. [let、const、和var](https://github.com/bibi7/interview/issues/17)
+14. [暂时性死区TDZ](https://github.com/bibi7/interview/issues/18)
 
 ### css🍥
 1. [外边距合并](https://github.com/bibi7/interview/issues/12)
