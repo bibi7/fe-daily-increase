@@ -28,7 +28,7 @@
 3. [window.requestAnimationFrame引出的重绘](https://github.com/bibi7/interview/issues/19)
 
 ### navigator🏓
-1. [浏览器中的重绘和重排](https://github.com/bibi7/interview/issues/20)
+1. [浏览器的渲染以及其中的重绘和重排](https://github.com/bibi7/interview/issues/20)
 
 ### 算法🍖
 1. [二分查找法](https://leetcode-cn.com/problems/search-insert-position/solution/js-by-joeyzhouyicheng-4/)
