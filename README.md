@@ -29,6 +29,8 @@
 
 ### navigator🏓
 1. [浏览器的渲染以及其中的重绘和重排](https://github.com/bibi7/interview/issues/20)
+2. [浏览器进程与渲染进程](https://github.com/bibi7/interview/issues/21)
+
 
 ### 算法🍖
 1. [二分查找法](https://leetcode-cn.com/problems/search-insert-position/solution/js-by-joeyzhouyicheng-4/)
