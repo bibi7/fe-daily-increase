@@ -21,6 +21,7 @@
 14. [为什么typeof null返回object](https://github.com/bibi7/interview/issues/16)
 14. [let、const、和var](https://github.com/bibi7/interview/issues/17)
 14. [暂时性死区TDZ](https://github.com/bibi7/interview/issues/18)
+15. [页面的可见性](https://github.com/bibi7/interview/issues/23)
 
 ### css🍥
 1. [外边距合并](https://github.com/bibi7/interview/issues/12)
@@ -30,6 +31,7 @@
 ### navigator🏓
 1. [浏览器的渲染以及其中的重绘和重排](https://github.com/bibi7/interview/issues/20)
 2. [浏览器进程与渲染进程](https://github.com/bibi7/interview/issues/21)
+3. [浏览器缓存](https://github.com/bibi7/interview/issues/22)
 
 
 ### 算法🍖
