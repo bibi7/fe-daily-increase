@@ -23,6 +23,7 @@
 14. [暂时性死区TDZ](https://github.com/bibi7/interview/issues/18)
 15. [页面的可见性](https://github.com/bibi7/interview/issues/23)
 16. [函数的防抖和节流](https://github.com/bibi7/interview/issues/24)
+17. [['1', '2', '3'].map(parseInt)](https://github.com/bibi7/interview/issues/25)
 
 ### css🍥
 1. [外边距合并](https://github.com/bibi7/interview/issues/12)
