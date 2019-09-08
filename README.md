@@ -25,6 +25,7 @@
 16. [函数的防抖和节流](https://github.com/bibi7/interview/issues/24)
 17. [['1', '2', '3'].map(parseInt)](https://github.com/bibi7/interview/issues/25)
 18. [async](https://github.com/bibi7/interview/issues/26)
+18. [for in，for of和迭代器](https://github.com/bibi7/interview/issues/27)
 
 ### css🍥
 1. [外边距合并](https://github.com/bibi7/interview/issues/12)
