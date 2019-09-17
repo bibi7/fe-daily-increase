@@ -26,16 +26,23 @@
 17. [['1', '2', '3'].map(parseInt)](https://github.com/bibi7/interview/issues/25)
 18. [async](https://github.com/bibi7/interview/issues/26)
 18. [for in，for of和迭代器](https://github.com/bibi7/interview/issues/27)
+19. [Set、Map、WeakSet 和 WeakMap](https://github.com/bibi7/interview/issues/28)
 
 ### css🍥
 1. [外边距合并](https://github.com/bibi7/interview/issues/12)
 2. [BFC](https://github.com/bibi7/interview/issues/13)
 3. [window.requestAnimationFrame引出的重绘](https://github.com/bibi7/interview/issues/19)
 
+
 ### navigator🏓
 1. [浏览器的渲染以及其中的重绘和重排](https://github.com/bibi7/interview/issues/20)
 2. [浏览器进程与渲染进程](https://github.com/bibi7/interview/issues/21)
 3. [浏览器缓存](https://github.com/bibi7/interview/issues/22)
+
+
+### 有趣的小题目🍑
+1. [具名自执行函数](https://github.com/bibi7/interview/issues/29)
+2. [object的push妙用](https://github.com/bibi7/interview/issues/30)
 
 
 ### 算法🍖
