@@ -27,12 +27,15 @@
 18. [async](https://github.com/bibi7/interview/issues/26)
 18. [for in，for of和迭代器](https://github.com/bibi7/interview/issues/27)
 19. [Set、Map、WeakSet 和 WeakMap](https://github.com/bibi7/interview/issues/28)
+120. [globalThis](https://github.com/bibi7/interview/issues/32)
 
 ### css🍥
 1. [外边距合并](https://github.com/bibi7/interview/issues/12)
 2. [BFC](https://github.com/bibi7/interview/issues/13)
 3. [window.requestAnimationFrame引出的重绘](https://github.com/bibi7/interview/issues/19)
 
+### react
+1. [为什么react中遍历循环需要key？](https://github.com/bibi7/interview/issues/31)
 
 ### navigator🏓
 1. [浏览器的渲染以及其中的重绘和重排](https://github.com/bibi7/interview/issues/20)
