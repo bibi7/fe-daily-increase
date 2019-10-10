@@ -27,7 +27,8 @@
 18. [async](https://github.com/bibi7/interview/issues/26)
 18. [for in，for of和迭代器](https://github.com/bibi7/interview/issues/27)
 19. [Set、Map、WeakSet 和 WeakMap](https://github.com/bibi7/interview/issues/28)
-120. [globalThis](https://github.com/bibi7/interview/issues/32)
+20. [globalThis](https://github.com/bibi7/interview/issues/32)
+21. [手写promise](https://github.com/bibi7/interview/issues/33)
 
 ### css🍥
 1. [外边距合并](https://github.com/bibi7/interview/issues/12)
