@@ -38,11 +38,11 @@
 ### react
 1. [为什么react中遍历循环需要key？](https://github.com/bibi7/interview/issues/31)
 
-### navigator🏓
+### navigator && Http🏓
 1. [浏览器的渲染以及其中的重绘和重排](https://github.com/bibi7/interview/issues/20)
 2. [浏览器进程与渲染进程](https://github.com/bibi7/interview/issues/21)
 3. [浏览器缓存](https://github.com/bibi7/interview/issues/22)
-
+4. [浏览器缓存](https://github.com/bibi7/interview/issues/34)
 
 ### 有趣的小题目🍑
 1. [具名自执行函数](https://github.com/bibi7/interview/issues/29)
