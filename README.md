@@ -29,6 +29,7 @@
 22. [Set、Map、WeakSet 和 WeakMap](https://github.com/bibi7/interview/issues/28)
 23. [globalThis](https://github.com/bibi7/interview/issues/32)
 24. [手写promise](https://github.com/bibi7/interview/issues/33)
+25. [npm install是如何安装一个依赖的？](https://github.com/bibi7/interview/issues/36)
 
 ### css🍥
 1. [外边距合并](https://github.com/bibi7/interview/issues/12)
@@ -43,6 +44,7 @@
 2. [浏览器进程与渲染进程](https://github.com/bibi7/interview/issues/21)
 3. [浏览器缓存](https://github.com/bibi7/interview/issues/22)
 4. [http2多路复用](https://github.com/bibi7/interview/issues/34)
+5. [三次握手和四次挥手](https://github.com/bibi7/interview/issues/35)
 
 ### 有趣的小题目🍑
 1. [具名自执行函数](https://github.com/bibi7/interview/issues/29)
