@@ -26,10 +26,11 @@
 19. [['1', '2', '3'].map(parseInt)](https://github.com/bibi7/interview/issues/25)
 20. [async](https://github.com/bibi7/interview/issues/26)
 21. [for in，for of和迭代器](https://github.com/bibi7/interview/issues/27)
-22. [Set、Map、WeakSet 和 WeakMap](https://github.com/bibi7/interview/issues/28)
+22. 【搬】[Set、Map、WeakSet 和 WeakMap](https://github.com/bibi7/interview/issues/28)
 23. [globalThis](https://github.com/bibi7/interview/issues/32)
 24. [手写promise](https://github.com/bibi7/interview/issues/33)
 25. [npm install是如何安装一个依赖的？](https://github.com/bibi7/interview/issues/36)
+26. 【搬】[前端中的模块化开发](https://github.com/bibi7/interview/issues/37)
 
 ### css🍥
 1. [外边距合并](https://github.com/bibi7/interview/issues/12)
