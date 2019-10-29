@@ -50,7 +50,8 @@
 ### 有趣的小题目🍑
 1. [具名自执行函数](https://github.com/bibi7/interview/issues/29)
 2. [object的push妙用](https://github.com/bibi7/interview/issues/30)
-
+3. [请把俩个数组 [A1, A2, B1, B2, C1, C2, D1, D2] 和 [A, B, C, D]，合并为 [A1, A2, A, B1, B2, B, C1, C2, C, D1, D2, D]。](https://github.com/bibi7/interview/issues/38)
+4. [把一个多维数组拍平成一维数组](https://github.com/bibi7/interview/issues/39)
 
 ### 算法🍖
 1. [二分查找法](https://leetcode-cn.com/problems/search-insert-position/solution/js-by-joeyzhouyicheng-4/)
