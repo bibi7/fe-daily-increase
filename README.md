@@ -36,6 +36,7 @@
 1. [外边距合并](https://github.com/bibi7/interview/issues/12)
 2. [BFC](https://github.com/bibi7/interview/issues/13)
 3. [window.requestAnimationFrame引出的重绘](https://github.com/bibi7/interview/issues/19)
+4. [怎么来处理移动端的图片模糊以及在retina屏下1px模糊的问题？](https://github.com/bibi7/interview/issues/43)
 
 ### react
 1. [为什么react中遍历循环需要key？](https://github.com/bibi7/interview/issues/31)
@@ -53,6 +54,8 @@
 2. [object的push妙用](https://github.com/bibi7/interview/issues/30)
 3. [请把俩个数组 [A1, A2, B1, B2, C1, C2, D1, D2] 和 [A, B, C, D]，合并为 [A1, A2, A, B1, B2, B, C1, C2, C, D1, D2, D]。](https://github.com/bibi7/interview/issues/38)
 4. [把一个多维数组拍平成一维数组](https://github.com/bibi7/interview/issues/39)
+5. [字符串取反](https://github.com/bibi7/interview/issues/41)
+6. [写出下列各种代码的结果](https://github.com/bibi7/interview/issues/42)
 
 ### 算法🍖
 1. [二分查找法](https://leetcode-cn.com/problems/search-insert-position/solution/js-by-joeyzhouyicheng-4/)
