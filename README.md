@@ -31,6 +31,7 @@
 24. [手写promise](https://github.com/bibi7/interview/issues/33)
 25. [npm install是如何安装一个依赖的？](https://github.com/bibi7/interview/issues/36)
 26. 【搬】[前端中的模块化开发](https://github.com/bibi7/interview/issues/37)
+27. [currying](https://github.com/bibi7/interview/issues/45)
 
 ### css🍥
 1. [外边距合并](https://github.com/bibi7/interview/issues/12)
@@ -40,6 +41,7 @@
 
 ### react
 1. [为什么react中遍历循环需要key？](https://github.com/bibi7/interview/issues/31)
+2. [react中为什么方法需要bind](https://github.com/bibi7/interview/issues/44)
 
 ### navigator && Http && Https🏓
 1. [浏览器的渲染以及其中的重绘和重排](https://github.com/bibi7/interview/issues/20)
