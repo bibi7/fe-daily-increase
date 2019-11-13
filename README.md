@@ -32,12 +32,14 @@
 25. [npm install是如何安装一个依赖的？](https://github.com/bibi7/interview/issues/36)
 26. 【搬】[前端中的模块化开发](https://github.com/bibi7/interview/issues/37)
 27. [currying](https://github.com/bibi7/interview/issues/45)
+28. 【搬】[cookie](https://github.com/bibi7/interview/issues/46)
 
 ### css🍥
 1. [外边距合并](https://github.com/bibi7/interview/issues/12)
 2. [BFC](https://github.com/bibi7/interview/issues/13)
 3. [window.requestAnimationFrame引出的重绘](https://github.com/bibi7/interview/issues/19)
 4. [怎么来处理移动端的图片模糊以及在retina屏下1px模糊的问题？](https://github.com/bibi7/interview/issues/43)
+5. [css文本溢出截断](https://github.com/bibi7/interview/issues/47)
 
 ### react
 1. [为什么react中遍历循环需要key？](https://github.com/bibi7/interview/issues/31)
