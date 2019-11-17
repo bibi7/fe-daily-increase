@@ -40,6 +40,8 @@
 3. [window.requestAnimationFrame引出的重绘](https://github.com/bibi7/interview/issues/19)
 4. [怎么来处理移动端的图片模糊以及在retina屏下1px模糊的问题？](https://github.com/bibi7/interview/issues/43)
 5. [css文本溢出截断](https://github.com/bibi7/interview/issues/47)
+6. [css选择器以及优先级](https://github.com/bibi7/fe-daily-increase/issues/48)
+
 
 ### react
 1. [为什么react中遍历循环需要key？](https://github.com/bibi7/interview/issues/31)
