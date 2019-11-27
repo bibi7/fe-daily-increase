@@ -33,6 +33,8 @@
 26. 【搬】[前端中的模块化开发](https://github.com/bibi7/interview/issues/37)
 27. [currying](https://github.com/bibi7/interview/issues/45)
 28. 【搬】[cookie](https://github.com/bibi7/interview/issues/46)
+29. [hybrid通信](https://github.com/bibi7/interview/issues/49)
+30. [浮点数相加时的精度问题](https://github.com/bibi7/interview/issues/50)
 
 ### css🍥
 1. [外边距合并](https://github.com/bibi7/interview/issues/12)
