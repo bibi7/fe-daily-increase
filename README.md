@@ -35,6 +35,8 @@
 28. 【搬】[cookie](https://github.com/bibi7/interview/issues/46)
 29. [hybrid通信](https://github.com/bibi7/interview/issues/49)
 30. [浮点数相加时的精度问题](https://github.com/bibi7/interview/issues/50)
+31. [手写reduce](https://github.com/bibi7/interview/issues/51)
+32. [事件](https://github.com/bibi7/interview/issues/52)
 
 ### css🍥
 1. [外边距合并](https://github.com/bibi7/interview/issues/12)
@@ -56,6 +58,7 @@
 4. [http2多路复用](https://github.com/bibi7/interview/issues/34)
 5. [三次握手和四次挥手](https://github.com/bibi7/interview/issues/35)
 6. 【搬】[Https握手](https://github.com/bibi7/interview/issues/40)
+7. [get和post？](https://github.com/bibi7/interview/issues/53)
 
 ### 有趣的小题目🍑
 1. [具名自执行函数](https://github.com/bibi7/interview/issues/29)
