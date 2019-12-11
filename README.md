@@ -37,7 +37,7 @@
 30. [浮点数相加时的精度问题](https://github.com/bibi7/interview/issues/50)
 31. [手写reduce](https://github.com/bibi7/interview/issues/51)
 32. [事件](https://github.com/bibi7/interview/issues/52)
-33. [V8垃圾回收](https://github.com/bibi7/interview/issues/53)
+33. [V8垃圾回收](https://github.com/bibi7/interview/issues/54)
 
 ### css🍥
 1. [外边距合并](https://github.com/bibi7/interview/issues/12)
