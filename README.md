@@ -59,7 +59,7 @@
 3. [浏览器缓存](https://github.com/bibi7/interview/issues/22)
 4. [http2多路复用](https://github.com/bibi7/interview/issues/34)
 5. [三次握手和四次挥手](https://github.com/bibi7/interview/issues/35)
-6. 【搬】[Https握手](https://github.com/bibi7/interview/issues/40)
+6. [Https握手](https://github.com/bibi7/interview/issues/40)
 7. [get和post？](https://github.com/bibi7/interview/issues/53)
 
 ### 有趣的小题目🍑
