@@ -51,6 +51,7 @@
 ### react
 1. [为什么react中遍历循环需要key？](https://github.com/bibi7/interview/issues/31)
 2. [react中为什么方法需要bind](https://github.com/bibi7/interview/issues/44)
+3. [diff？](https://github.com/bibi7/interview/issues/55)
 
 ### navigator && Http && Https🏓
 1. [浏览器的渲染以及其中的重绘和重排](https://github.com/bibi7/interview/issues/20)
