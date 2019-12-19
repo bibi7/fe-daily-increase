@@ -69,6 +69,8 @@
 4. [把一个多维数组拍平成一维数组](https://github.com/bibi7/interview/issues/39)
 5. [字符串取反](https://github.com/bibi7/interview/issues/41)
 6. [写出下列各种代码的结果](https://github.com/bibi7/interview/issues/42)
+7. [from和to](https://github.com/bibi7/interview/issues/56)
+8. [千位符](https://github.com/bibi7/interview/issues/57)
 
 ### 算法🍖
 1. [二分查找法](https://leetcode-cn.com/problems/search-insert-position/solution/js-by-joeyzhouyicheng-4/)
