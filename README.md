@@ -38,6 +38,9 @@
 31. [手写reduce](https://github.com/bibi7/interview/issues/51)
 32. [事件](https://github.com/bibi7/interview/issues/52)
 33. [V8垃圾回收](https://github.com/bibi7/interview/issues/54)
+34. [xss](https://github.com/bibi7/interview/issues/59)
+35. [懒加载](https://github.com/bibi7/interview/issues/60)
+
 
 ### css🍥
 1. [外边距合并](https://github.com/bibi7/interview/issues/12)
@@ -61,6 +64,7 @@
 5. [三次握手和四次挥手](https://github.com/bibi7/interview/issues/35)
 6. [Https握手](https://github.com/bibi7/interview/issues/40)
 7. [get和post？](https://github.com/bibi7/interview/issues/53)
+8. [浏览器输入 url 到页面的展现，具体发生了些什么？](https://github.com/bibi7/interview/issues/58)
 
 ### 有趣的小题目🍑
 1. [具名自执行函数](https://github.com/bibi7/interview/issues/29)
